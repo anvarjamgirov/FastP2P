@@ -14,10 +14,10 @@ class ERROR:
         THIS_CARD_IS_NOT_SERVICED: "Ushbu karta raqami bilan amaliyot qilib bo'lmaydi",
         AMOUNT_OF_PAYMENT_IS_LESS_THAN_MINIMUM: "O'tkazmaning eng kam miqdori 1000 so'm bo'lishi kerak",
         INCORRECT_CARD_NUMBER: "Karta raqami noto'g'ri yoki hisobda o'tkazma uchun mablag' yetarli emas.",
-        INCORRECT_MY_CARD_NUMBER: "Noma'lum xatolik yuz berdi, iltimos bizga xabar bering.",
+        INCORRECT_MY_CARD_NUMBER: "Qabul qiluvchining karta raqami xato kiritilgan.",
         INCORRECT_SMS_CODE: "SMS kod noto'g'ri kiritildi.",
         PAYMENT_IS_OUT_OF_DATE: "O'tkazma muddati eskirgan, qayta urinib ko'ring.",
-        NETWORK_ERROR: "Kutilmagan xatolik, iltimos bizga xabar bering."
+        NETWORK_ERROR: "So'rov yuborishdagi xatolik."
     }
 
 
