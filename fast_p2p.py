@@ -7,6 +7,7 @@ class ERROR:
     INCORRECT_CARD_NUMBER = -31630
     INCORRECT_MY_CARD_NUMBER = -31101
     INCORRECT_SMS_CODE = -31103
+    PROCEDURAL_CENTER_NOT_AVAILABLE = -31624
     PAYMENT_IS_OUT_OF_DATE = -31640
     NETWORK_ERROR = -50001
 
@@ -16,6 +17,7 @@ class ERROR:
         INCORRECT_CARD_NUMBER: "Karta raqami noto'g'ri yoki hisobda o'tkazma uchun mablag' yetarli emas.",
         INCORRECT_MY_CARD_NUMBER: "Qabul qiluvchining karta raqami xato kiritilgan.",
         INCORRECT_SMS_CODE: "SMS kod noto'g'ri kiritildi.",
+        PROCEDURAL_CENTER_NOT_AVAILABLE: "Protsessing markazi mavjud emas.",
         PAYMENT_IS_OUT_OF_DATE: "O'tkazma muddati eskirgan, qayta urinib ko'ring.",
         NETWORK_ERROR: "So'rov yuborishdagi xatolik."
     }
