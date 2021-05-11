@@ -14,4 +14,5 @@ Mavjud so'rovlar:
 
 
 🔗 To'lov xizmati manzili: https://payme.uz/home/transfer
+
 💻 Dasturchi: https://t.me/anvarjamgirov
