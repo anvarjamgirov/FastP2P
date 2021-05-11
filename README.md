@@ -13,11 +13,11 @@ Mavjud so'rovlar:
 3. To'lovni kiritilgan sms kod bilan tasdiqlash (pay)
 
 
-**Diqqat eslatma!
+**Diqqat eslatma!**
 
-Siz ushbu yordamchi dasturdan foydalanishda barcha javobgarlikni o'zingizga olasiz, ushbu dastur ishlab chiquvchisi sizning harakatlaringizga javobgar emas.
+**Siz ushbu yordamchi dasturdan foydalanishda barcha javobgarlikni o'zingizga olasiz, ushbu dastur ishlab chiquvchisi sizning harakatlaringizga javobgar emas.**
 
-To'lov qilinayotgan xizmatlar O'zbekiston respublikasidagi qonunga zid bo'lmagan va soliq qonunchiligidagi tegishli qarorlarga mos kelishiga axamiyat bering, aks holda sizda muammolar yuz berishi mumkin.**
+**To'lov qilinayotgan xizmatlar O'zbekiston respublikasidagi qonunga zid bo'lmagan va soliq qonunchiligidagi tegishli qarorlarga mos kelishiga axamiyat bering, aks holda sizda muammolar yuz berishi mumkin.**
 
 
 🔗 To'lov xizmati manzili: https://payme.uz/home/transfer
