@@ -38,12 +38,6 @@ class Cheque:
 class FastP2P:
     base_url = "https://payme.uz/api/fast_p2p."
 
-    class TEXT:
-        pass
-
-    def __init__(self, card_number: str):
-        self.my_card_number = card_number
-
     def _make_request(self, method_url, params):
         json = {
             "method": "fast_p2p." + method_url,
@@ -62,15 +56,15 @@ class FastP2P:
         except Exception as e:
             raise FastP2PError(ERROR.NETWORK_ERROR, e.args)
 
-    def create(self, amount: int, card_number: str, expire: str) -> Cheque:
+    def create(self, amount: int, pay_card_number: str, pay_card_expire: str, my_card_number) -> Cheque:
         response = self._make_request(
             'create',
             {
                 "amount": amount * 100,
-                "number": self.my_card_number,
+                "number": my_card_number,
                 "pay_card": {
-                    "number": card_number,
-                    "expire": expire
+                    "number": pay_card_number,
+                    "expire": pay_card_expire
                 }
             }
         )
