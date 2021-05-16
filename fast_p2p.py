@@ -56,7 +56,7 @@ class FastP2P:
         except Exception as e:
             raise FastP2PError(ERROR.NETWORK_ERROR, e.args)
 
-    def create(self, amount: int, pay_card_number: str, pay_card_expire: str, my_card_number) -> Cheque:
+    def create(self, amount: int, pay_card_number: str, pay_card_expire: str, my_card_number: str) -> Cheque:
         response = self._make_request(
             'create',
             {
