@@ -3,7 +3,7 @@
 Payme to'lov tizimining Uzcard kartalari orasida pul o'tkazish xizmatini ishlatish uchun yordamchi.
 
 
-Foydalanishni boshlash uchun pul o'tkazilishi zarur bo'lgan uzcard karta raqami bilan FastP2P classidan obyekt olamiz va ushbu obyektdan kerakli so'rovlarni yuborib foydalanishimiz mumkin bo'ladi.
+Foydalanishni boshlash uchun FastP2P classidan obyekt olamiz va ushbu obyektdan kerakli so'rovlarni yuborib foydalanishimiz mumkin bo'ladi.
 
 
 Mavjud so'rovlar:
